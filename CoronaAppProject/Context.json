@@ -1,0 +1,71 @@
+[
+  {
+    "FirstName": "Reuven",
+    "LastName": "Cohen",
+    "Id": 10,
+    "Locations": [
+      {
+        "City": "Jerusalm",
+        "StartDate": "2021-01-04T10:10:10",
+        "EndDate": "2021-01-04T10:30:10",
+        "Location1": "Sentral station"
+      },
+      {
+        "City": "Jerusalem",
+        "StartDate": "2021-01-04T10:10:10",
+        "EndDate": "2021-01-04T10:30:10",
+        "Location1": "Gan Saker"
+      },
+      {
+        "City": "Jerusalem",
+        "StartDate": "2021-01-04T10:10:20",
+        "EndDate": "2021-01-04T10:30:20",
+        "Location1": "The Rova"
+      }
+    ]
+  },
+  {
+    "FirstName": "Shimon",
+    "LastName": "Levi",
+    "Id": 20,
+    "Locations": [
+      {
+        "City": "Petach Tikva",
+        "StartDate": "2021-04-04T10:10:10",
+        "EndDate": "2021-04-04T10:30:10",
+        "Location1": "Rotshild st"
+      },
+      {
+        "City": "Elad",
+        "StartDate": "2021-01-04T10:10:10",
+        "EndDate": "2021-01-04T10:30:10",
+        "Location1": "The big park"
+      },
+      {
+        "City": "Elad",
+        "StartDate": "2021-01-04T10:10:10",
+        "EndDate": "2021-01-04T10:30:10",
+        "Location1": "Halevi st"
+      }
+    ]
+  },
+  {
+    "FirstName": "Dan",
+    "LastName": "Rot",
+    "Id": 30,
+    "Locations": [
+      {
+        "City": "Netivot",
+        "StartDate": "2021-08-03T10:10:10",
+        "EndDate": "2021-08-03T10:30:10",
+        "Location1": "Restaurant"
+      },
+      {
+        "City": "Bnei Brak",
+        "StartDate": "2021-08-03T10:10:10",
+        "EndDate": "2021-08-03T10:30:10",
+        "Location1": "Rabi Akiva st"
+      }
+    ]
+  }
+]
